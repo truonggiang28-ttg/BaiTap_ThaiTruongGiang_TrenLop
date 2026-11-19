@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style
+        name="Theme.StudentManagement"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- MÀU CHÍNH -->
+        <item name="colorPrimary">#1565C0</item>
+
+        <!-- MÀU XANH ĐẬM -->
+        <item name="colorPrimaryVariant">#0D47A1</item>
+
+        <!-- MÀU PHỤ -->
+        <item name="colorSecondary">#42A5F5</item>
+
+        <!-- THANH TRẠNG THÁI -->
+        <item name="android:statusBarColor">#0D47A1</item>
+
+        <!-- THANH ĐIỀU HƯỚNG -->
+        <item name="android:navigationBarColor">#FFFFFF</item>
+
+        <!-- BIỂU TƯỢNG STATUS BAR -->
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- FONT CHỮ -->
+        <item name="android:fontFamily">sans</item>
+
+        <!-- MÀU NỀN CỬA SỔ -->
+        <item name="android:windowBackground">#F2F6FC</item>
+
+    </style>
+
+</resources>
